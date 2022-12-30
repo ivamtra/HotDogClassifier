@@ -1,1 +1,1 @@
-# Hot Dog Classifier as inspiried by Silicon Valley
+# Hot Dog Classifier as inspired by Silicon Valley
